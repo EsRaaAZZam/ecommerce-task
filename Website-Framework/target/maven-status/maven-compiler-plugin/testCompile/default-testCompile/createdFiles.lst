@@ -1,0 +1,9 @@
+com/demo/tests/BaseTest.class
+com/demo/pages/RegisterPage.class
+com/demo/driver/WebDriverHandler.class
+com/demo/utilities/ConfigProperties.class
+com/demo/ApplicationPage.class
+com/demo/utilities/listeners/TestNGListener.class
+com/demo/browser/Browser.class
+com/demo/pages/BasePage.class
+com/demo/tests/RegistrationTest.class
