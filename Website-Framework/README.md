@@ -79,3 +79,7 @@ Firefox Test
 
 To run the tests, execute the TestNG suite defined in testng.xml. You can do this from the command line using Maven:
 mvn test -DsuiteXmlFile=websiteTestNG.xml
+
+### important note 
+the registered user loses his access after while so make sure to update config file with valid user to test login
+
